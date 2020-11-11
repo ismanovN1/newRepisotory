@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/newRepisotory/static/css/main.4d0f4642.chunk.css",
+    "main.js": "/newRepisotory/static/js/main.ba6080cb.chunk.js",
+    "main.js.map": "/newRepisotory/static/js/main.ba6080cb.chunk.js.map",
+    "runtime-main.js": "/newRepisotory/static/js/runtime-main.85f9e623.js",
+    "runtime-main.js.map": "/newRepisotory/static/js/runtime-main.85f9e623.js.map",
+    "static/js/2.938a948f.chunk.js": "/newRepisotory/static/js/2.938a948f.chunk.js",
+    "static/js/2.938a948f.chunk.js.map": "/newRepisotory/static/js/2.938a948f.chunk.js.map",
+    "static/js/3.e8f5cde7.chunk.js": "/newRepisotory/static/js/3.e8f5cde7.chunk.js",
+    "static/js/3.e8f5cde7.chunk.js.map": "/newRepisotory/static/js/3.e8f5cde7.chunk.js.map",
+    "index.html": "/newRepisotory/index.html",
+    "static/css/main.4d0f4642.chunk.css.map": "/newRepisotory/static/css/main.4d0f4642.chunk.css.map",
+    "static/js/2.938a948f.chunk.js.LICENSE.txt": "/newRepisotory/static/js/2.938a948f.chunk.js.LICENSE.txt",
+    "static/media/mountain.283c5b9c.png": "/newRepisotory/static/media/mountain.283c5b9c.png",
+    "static/media/okean.04df7147.png": "/newRepisotory/static/media/okean.04df7147.png",
+    "static/media/polostrov.acfe4214.png": "/newRepisotory/static/media/polostrov.acfe4214.png",
+    "static/media/reka.1e158f77.png": "/newRepisotory/static/media/reka.1e158f77.png",
+    "static/media/sahara.6d99fd82.png": "/newRepisotory/static/media/sahara.6d99fd82.png",
+    "static/media/zemlya.0c797c6f.png": "/newRepisotory/static/media/zemlya.0c797c6f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85f9e623.js",
+    "static/js/2.938a948f.chunk.js",
+    "static/css/main.4d0f4642.chunk.css",
+    "static/js/main.ba6080cb.chunk.js"
+  ]
+}
